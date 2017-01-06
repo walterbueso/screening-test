@@ -11,6 +11,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
+            //I screwed up by rushing and comapring results with test case
             string path = @"access.log";
             StringBuilder csvContent = new StringBuilder();
             string csvPath = @"C:\Users\walte\Desktop\screening-test\report.csv";
